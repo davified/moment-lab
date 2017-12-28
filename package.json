@@ -1,0 +1,13 @@
+{
+  "name": "jumpstart-assignment-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "ThoughtWorks",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
