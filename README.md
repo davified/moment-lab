@@ -1,6 +1,6 @@
 # Moment Lab
 
-** It's time (pun intended) to learn! **
+**It's time (pun intended) to learn!**
 
 This assignment requires you to complete a series of time manipulation tasks using `moment.js`, a library that most of you probably haven't encountered before.
 
