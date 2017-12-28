@@ -9,5 +9,6 @@
   "author": "ThoughtWorks",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.20.1"
   }
 }
