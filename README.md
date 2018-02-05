@@ -14,3 +14,6 @@ This assignment requires you to complete a series of time manipulation tasks usi
 ### Instructions
 
 Complete the tasks listed in `index.js`. Don't forget to refer to the [docs](https://momentjs.com/docs/). (hint: answers are all in the docs!)
+
+---
+Copyright (c) 2018 ThoughtWorks. For personal use and training purposes only; not to be copied or distributed without further approval.
